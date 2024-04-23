@@ -100,4 +100,4 @@ let DURACION_EJ_S=${TERMINA_EJEC_S}-${INICIA_EJEC_S}
 let DURACION_EJE_M=${DURACION_EJ_S}/60
 mensaje "INFO" "+---------------------------------------------------------+"
 mensaje "INFO" "|---------- Duración de la ejecución: $DURACION_EJ_S seg. -------------|"
-mensaje "INFO" "+---------------------------------------------------------+"
+
